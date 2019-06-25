@@ -1,0 +1,22 @@
+{
+  "name": "test_lib_consumer",
+  "version": "1.0.0",
+  "description": "testing library shaing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkoide0321/test_lib_consumer.git"
+  },
+  "dependencies": {
+    "test_lib": "https://github.com/hkoide0321/test_lib.git"
+  },
+  "author": "hkoide@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkoide0321/test_lib_consumer/issues"
+  },
+  "homepage": "https://github.com/hkoide0321/test_lib_consumer#readme"
+}
