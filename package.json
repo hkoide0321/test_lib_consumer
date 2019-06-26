@@ -11,7 +11,7 @@
     "url": "git+https://github.com/hkoide0321/test_lib_consumer.git"
   },
   "dependencies": {
-    "test_lib": "https://github.com/hkoide0321/test_lib.git"
+    "test_lib": "git+https://github.com/hkoide0321/test_lib.git"
   },
   "author": "hkoide@gmail.com",
   "license": "ISC",

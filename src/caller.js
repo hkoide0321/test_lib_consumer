@@ -1,4 +1,4 @@
 
-var doubleValue = require('doubleValue');
-console.log(doubleValue(10));
+var doublePackage = require('test_lib').doublePackage;
+console.log(doublePackage.doubleVal(10));
 
